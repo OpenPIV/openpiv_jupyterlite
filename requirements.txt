@@ -48,4 +48,4 @@ nblink
 scikit_image
 natsort
 importlib_resources
-openpiv==0.25.3 --no-deps
+openpiv
