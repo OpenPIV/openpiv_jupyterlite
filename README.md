@@ -1,6 +1,15 @@
+# Contribute to OpenPIV
+
+1. Our Google groups forum `openpiv-users` https://groups.google.com/u/1/g/openpiv-users
+2. Our documentation https://openpiv.readthedocs.io/en/latest/
+3. Our source code: https://github.com/openpiv/openpiv-python
+4. 
+
 # OpenPIV JupyterLite Demo
 
 http://openpiv.github.io/openpiv_jupyterlite
+
+
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
